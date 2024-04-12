@@ -1,0 +1,7 @@
+
+
+#imagenes img {
+    width: 100px; /* Ancho deseado */
+    height: auto; /* Mantener la proporción */
+    margin: 5px; /* Espacio entre las imágenes */
+}
